@@ -1,4 +1,4 @@
-# Welcome to [Your Website Name]
+# Welcome 
 
 ![Your Website Logo](link_to_your_logo.png)
 
